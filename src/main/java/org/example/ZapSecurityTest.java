@@ -18,7 +18,7 @@ import java.util.List;
 public class ZapSecurityTest {
     static final String ZAP_PROXY_ADDRESS = "localhost";
     static final int ZAP_PROXY_PORT = 8081;
-    static final String ZAP_API_KEY = "ibmj02082rr6alt16n4cui5eqf";
+    static final String ZAP_API_KEY = "<ReplaceAPIKEYHer";
 
     private WebDriver driver;
     private ClientApi api;
